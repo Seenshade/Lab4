@@ -1,0 +1,6 @@
+﻿  task1.c
+c:\users\seens\desktop\practice\practical_task_№4\task1.c\task1.c\task1.c(13): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\seens\desktop\practice\practical_task_№4\task1.c\task1.c\task1.c(14): warning C4098: main: функция типа "void", возвращающая значение
+c:\users\seens\desktop\practice\practical_task_№4\task1.c\task1.c\task1.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+  task1.c.vcxproj -> C:\Users\Seens\Desktop\PRACTICE\Practical_task_№4\task1.c\x64\Debug\task1.c.exe
