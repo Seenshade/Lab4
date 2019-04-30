@@ -1,0 +1,5 @@
+﻿  task4.c
+c:\users\seens\desktop\practice\practical_task_№4\task4.c\task4.c\task4.c(23): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\seens\desktop\practice\practical_task_№4\task4.c\task4.c\task4.c(25): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\seens\desktop\practice\practical_task_№4\task4.c\task4.c\task4.c(37): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  task4.c.vcxproj -> C:\Users\Seens\Desktop\PRACTICE\Practical_task_№4\task4.c\x64\Debug\task4.c.exe
